@@ -1,6 +1,8 @@
 # Moka Props
 
-Moka Props is a test tool to perform _stateful_ property-based testing on the [Moka][moka] cache. It will randomly generate commands with arguments, run them against the cache implementations and verify the returned values. It is a like a superset of QuickCheck. It not only generate test data, but also generate test cases.
+Moka Props is a test tool to perform _stateful_ property-based testing on the [Moka][moka] cache.
+
+It will randomly generate commands with arguments, run them against the cache implementations and verify the returned values. It is like a superset of QuickCheck, which will not only generate test data, but also generate test cases.
 
 
 ## Overview
